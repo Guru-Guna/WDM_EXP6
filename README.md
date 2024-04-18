@@ -1,4 +1,3 @@
-![1](https://github.com/Guru-Guna/WDM_EXP6/assets/93427255/0e90f6c5-f8db-4f88-aeac-608f92dd4e23)# EX6 Information Retrieval Using Vector Space Model in Python
 ### DATE: 28.03.2024
 ## AIM: 
 To implement Information Retrieval Using Vector Space Model in Python.
